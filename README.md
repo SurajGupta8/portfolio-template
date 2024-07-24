@@ -1,8 +1,17 @@
-# React + Vite
+# Welcome to Portfolio-Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo is a portfolio template similar to Tunish Portfolio Wordpress theme by using `React` and `Vite`.
 
-Currently, two official plugins are available:
+## Live at [portfoliotemp1](https://portfoliotemp1.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Getting Started:
+### To run this repo on your local:
+1. Clone this repo
+2. Do `npm install`
+3. Do `npm run dev` or `npm start`
+4. Open `localhost:3000` on your browser
+
+##
+
+### Note: Feel free to reach out to me for any doubt or help
